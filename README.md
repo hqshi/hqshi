@@ -1,3 +1,5 @@
+# Hi, 👋 I'm hqshi
+
 <!--
 **hqshi/hqshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning PWA
+- 🤔 I’m looking for help with PWA
+- 💬 Ask me about Python
+- 📫 How to reach me: hqshi@outlook.com
 
 **Languages and Frameworks**
 
