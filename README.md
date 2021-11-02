@@ -1,4 +1,8 @@
-# Hi, 👋 I'm hqshi
+# Hi, 👋 I'm Heinrich Friedrich(Aka hqshi)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hqshi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqshi&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hqshi/hqshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning PWA
-- 🤔 I’m looking for help with PWA
-- 💬 Ask me about Python
-- 📫 How to reach me: hqshi@outlook.com
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Vue, PWA, FaaS
+- 👯 I’m looking to collaborate on Python or Web Developer
+- 🤔 I’m looking for help with Web Framework Design
+- 💬 Ask me about **Anything you want**
+- 📫 How to reach me: <hqshi@outlook.com>
+- ⚡ Fun fact: Video Games, Coding
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hqshi)
 
 **Languages and Frameworks**
 
@@ -38,8 +44,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-
----
 
 🚧 **My Todoist Stats: ⬇️**
 
