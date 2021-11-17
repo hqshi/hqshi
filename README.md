@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 
 🚧 **My Todoist Stats: ⬇️**
 
+- [ ] Learn PWA
+- [ ] Write a Web Server
+- [ ] Write a cross-paltform application
+- [ ] Write a Blog
